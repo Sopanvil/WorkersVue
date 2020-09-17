@@ -1,0 +1,13 @@
+{"workers": [
+        {
+        "id": 1,
+        "fio": "Ivan Kovalev Olegovich",
+        "tel": "+79684915171"
+        },
+        {
+        "id": 2,
+        "fio": "Edward Artemiev",
+        "tel": ""
+        }
+    ]
+}
